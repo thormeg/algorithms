@@ -55,7 +55,7 @@ class DoublyLinkedList:
 
         node = self.head
         for _ in range(index):
-            node = self.head.next
+            node = node.next
         node.previous.next = Node(data)
         node.previous.next.previous = node.previous
         node.previous.next.next = node
