@@ -1,3 +1,3 @@
-# Algorithms
+# Algorithms and data structures
 
-Playing with algorithms in various languages.
+Playing with algorithms and data structures in various languages.
